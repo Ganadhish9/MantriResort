@@ -1,0 +1,37 @@
+{
+  "name": "mantri-stay",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cross-env": "^10.1.0",
+    "framer-motion": "^12.38.0",
+    "lucide-react": "^1.8.0",
+    "puppeteer": "^24.41.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "cross-env NODE_OPTIONS=\"--no-warnings\" react-scripts start",
+    "build": "cross-env NODE_OPTIONS=\"--no-warnings\" react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
