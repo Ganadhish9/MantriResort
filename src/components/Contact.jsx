@@ -66,7 +66,7 @@ function Contact() {
               <br />
               Karnataka 581344
             </p>
-            <p><strong> Phone</strong><br />08660205501</p>
+            <p><strong> Phone</strong><br /><a href="tel:01169658991" style={{ color: 'inherit', textDecoration: 'none' }}>01169658991</a></p>
           </motion.div>
 
           {/* Google Map */}

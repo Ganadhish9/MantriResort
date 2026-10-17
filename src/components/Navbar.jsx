@@ -42,7 +42,7 @@ function Navbar() {
       <div className="nav-actions">
         <motion.a
           className="nav-btn"
-          href="tel:08660205501"
+          href="tel:01169658991"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.5, delay: 0.6 }}

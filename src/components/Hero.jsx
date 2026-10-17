@@ -44,7 +44,7 @@ function Hero() {
           transition={{ duration: 0.7, delay: 0.9, ease: 'easeOut' }}
         >
           <button className="btn-gold" onClick={() => scrollTo('rooms')}>Explore Rooms</button>
-          <a className="btn-gold" href="tel:08660205501">Book a Stay</a>
+          <a className="btn-gold" href="tel:01169658991">Book a Stay</a>
         </motion.div>
 
         <div className="hero-watermark">

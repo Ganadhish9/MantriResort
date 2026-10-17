@@ -47,7 +47,7 @@ function Footer() {
           <h4>Contact</h4>
           <ul>
             <li>Mantri Resort Gokarna Hittalmakki, Karnataka 581344</li>
-            <li>08660205501</li>
+            <li><a href="tel:01169658991">01169658991</a></li>
           </ul>
         </motion.div>
       </motion.div>
